@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Complete Internship Project",
+    "description": "Build Backend REST API using Express"
+  },
+  {
+    "id": 2,
+    "name": "Learn Node.js",
+    "description": "Understand routing, middleware and controllers"
+  },
+  {
+    "id": 3,
+    "name": "Practice APIs",
+    "description": "Test GET, POST, PUT and DELETE in Postman"
+  }
+]
